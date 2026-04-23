@@ -1,9 +1,6 @@
 Supplementary information to
 Linking molecular responses to organismal outcomes under complex contaminant stress: a systems biology approach for predictive ecotoxicology
 
-Louise M Stevenson, Andre Gergs, Lea Rahlfes, Ferdinand Pfab, Paul C. Pickhardt, Teresa J Mathews, Natàlia Garcia‐Reyero, Cheryl A Murphy, Roger M Nisbet, Philipp Antczak
-
-
 1) Set up Matlab and DEBtool
 Running the model in Matlab requires DEBtool, the Matlab function library for Dynamic Energy Budget (DEB) theory.
 Download DEBtool from: https://github.com/add-my-pet/DEBtool_M
